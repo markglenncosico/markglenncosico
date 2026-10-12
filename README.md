@@ -27,31 +27,9 @@ Motivated and detail-oriented Information Technology student at Polytechnic Univ
 
 ---
 
-## Projects
-
-### Interactive Pokédex (Spring Boot) | Java, Spring Boot, RESTful APIs, Maven
-
-- Developed a backend-driven Pokédex application using Spring Boot, implementing robust RESTful endpoints to fetch, filter, and manage Pokémon data.
-- Applied Object-Oriented Programming (OOP) principles to structure data models, services, and controllers for clean, maintainable architecture.
-
-### OOP Pokédex Web | Java, OOP, REST API Integration
-
-- Built a desktop console-based Pokédex Web focusing on strong Object-Oriented Programming (OOP) design patterns such as inheritance, encapsulation, and polymorphism.
-- Integrated external REST APIs to dynamically retrieve real-time Pokémon statistics, abilities, and sprites.
-
----
 
 ## Education
 
 Bachelor of Science in Information Technology | 2024 – 2028 Polytechnic University of the Philippines, Calauan Campus
 
 ---
-
-## Personal Information
-
-Age: 22  
-Sex: Male  
-Civil Status: Single  
-Nationality: Filipino  
-Religion: Roman Catholic  
-Place of Birth: San Pablo City
